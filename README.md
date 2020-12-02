@@ -1,3 +1,4 @@
 # parlimen-malaysia
 
-https://mybinder.org/v2/gh/harithzulfaizal/parlimen-malaysia/master
+Random pre-processing on Aturan Urusan Mesyuarat of Dewan Rakyat I did before interning at Institute of Research & Development (IRDP) on programming of extraction and analysing of questions and answers from Malaysian parliamentary hansards using Python and Malaya, a Bahasa Melayu natural language toolkit.
+
